@@ -1,0 +1,46 @@
+Enemy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enemy2
+  rotate: false
+  xy: 183, 229
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+Enemy1
+  rotate: false
+  xy: 216, 229
+  size: 206, 222
+  orig: 256, 256
+  offset: 24, 20
+  index: -1
+Enemy4
+  rotate: false
+  xy: 2, 324
+  size: 109, 175
+  orig: 109, 175
+  offset: 0, 0
+  index: -1
+Enemy3
+  rotate: false
+  xy: 113, 324
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+Enemy5
+  rotate: false
+  xy: 183, 2
+  size: 161, 225
+  orig: 161, 225
+  offset: 0, 0
+  index: -1
+Enemy6
+  rotate: false
+  xy: 2, 2
+  size: 179, 320
+  orig: 179, 320
+  offset: 0, 0
+  index: -1

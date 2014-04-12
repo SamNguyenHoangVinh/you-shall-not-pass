@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YouShallNotPass/YouShallNotPass.iml" filepath="$PROJECT_DIR$/YouShallNotPass/YouShallNotPass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YouShallNotPass-android/YouShallNotPass-android.iml" filepath="$PROJECT_DIR$/YouShallNotPass-android/YouShallNotPass-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YouShallNotPass-desktop/YouShallNotPass-desktop.iml" filepath="$PROJECT_DIR$/YouShallNotPass-desktop/YouShallNotPass-desktop.iml" />
+    </modules>
+  </component>
+</project>
+

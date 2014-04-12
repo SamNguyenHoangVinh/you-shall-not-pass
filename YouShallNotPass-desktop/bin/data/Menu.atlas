@@ -1,0 +1,348 @@
+
+Menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ReleaseTheDraken
+  rotate: false
+  xy: 1, 442
+  size: 627, 69
+  orig: 627, 69
+  offset: 0, 0
+  index: -1
+YouWillBeExecuted
+  rotate: false
+  xy: 1, 371
+  size: 547, 69
+  orig: 547, 69
+  offset: 0, 0
+  index: -1
+YouShallNotPass
+  rotate: false
+  xy: 1, 309
+  size: 459, 60
+  orig: 459, 60
+  offset: 0, 0
+  index: -1
+Wave3
+  rotate: false
+  xy: 630, 442
+  size: 277, 69
+  orig: 277, 69
+  offset: 0, 0
+  index: -1
+Wave6
+  rotate: false
+  xy: 550, 371
+  size: 246, 69
+  orig: 246, 69
+  offset: 0, 0
+  index: -1
+Wave2
+  rotate: false
+  xy: 1, 238
+  size: 246, 69
+  orig: 246, 69
+  offset: 0, 0
+  index: -1
+Wave4
+  rotate: false
+  xy: 1, 167
+  size: 246, 69
+  orig: 246, 69
+  offset: 0, 0
+  index: -1
+Victory
+  rotate: false
+  xy: 1, 96
+  size: 235, 69
+  orig: 235, 69
+  offset: 0, 0
+  index: -1
+Wave5
+  rotate: false
+  xy: 1, 25
+  size: 214, 69
+  orig: 214, 69
+  offset: 0, 0
+  index: -1
+Wave1
+  rotate: false
+  xy: 249, 238
+  size: 214, 69
+  orig: 214, 69
+  offset: 0, 0
+  index: -1
+Defeat
+  rotate: false
+  xy: 249, 167
+  size: 205, 69
+  orig: 205, 69
+  offset: 0, 0
+  index: -1
+GameSavedHover
+  rotate: false
+  xy: 238, 102
+  size: 188, 63
+  orig: 188, 63
+  offset: 0, 0
+  index: -1
+Difficulty
+  rotate: false
+  xy: 462, 324
+  size: 176, 45
+  orig: 176, 45
+  offset: 0, 0
+  index: -1
+DestroyerHover
+  rotate: false
+  xy: 465, 259
+  size: 178, 63
+  orig: 178, 63
+  offset: 0, 0
+  index: -1
+Destroyer
+  rotate: false
+  xy: 640, 324
+  size: 160, 45
+  orig: 160, 45
+  offset: 0, 0
+  index: -1
+StartGameHover
+  rotate: false
+  xy: 645, 259
+  size: 185, 63
+  orig: 185, 63
+  offset: 0, 0
+  index: -1
+LoadGameHover
+  rotate: false
+  xy: 465, 194
+  size: 170, 63
+  orig: 170, 63
+  offset: 0, 0
+  index: -1
+GameSaved
+  rotate: false
+  xy: 637, 212
+  size: 169, 45
+  orig: 169, 45
+  offset: 0, 0
+  index: -1
+StartGame
+  rotate: false
+  xy: 456, 147
+  size: 168, 45
+  orig: 168, 45
+  offset: 0, 0
+  index: -1
+OptionHover
+  rotate: false
+  xy: 798, 377
+  size: 131, 63
+  orig: 131, 63
+  offset: 0, 0
+  index: -1
+LoadGame
+  rotate: false
+  xy: 637, 165
+  size: 152, 45
+  orig: 152, 45
+  offset: 0, 0
+  index: -1
+Striker
+  rotate: false
+  xy: 802, 330
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+EffectsHover
+  rotate: false
+  xy: 909, 456
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+StrikerHover
+  rotate: false
+  xy: 428, 82
+  size: 145, 63
+  orig: 145, 63
+  offset: 0, 0
+  index: -1
+ResumeHover
+  rotate: false
+  xy: 832, 265
+  size: 129, 63
+  orig: 129, 63
+  offset: 0, 0
+  index: -1
+Effects
+  rotate: false
+  xy: 931, 419
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+HunterHover
+  rotate: false
+  xy: 626, 100
+  size: 130, 63
+  orig: 130, 63
+  offset: 0, 0
+  index: -1
+Normal
+  rotate: false
+  xy: 931, 382
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+Save
+  rotate: false
+  xy: 932, 335
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+Hunter
+  rotate: false
+  xy: 238, 55
+  size: 112, 45
+  orig: 112, 45
+  offset: 0, 0
+  index: -1
+Option
+  rotate: false
+  xy: 217, 8
+  size: 112, 45
+  orig: 112, 45
+  offset: 0, 0
+  index: -1
+Resume
+  rotate: false
+  xy: 832, 218
+  size: 111, 45
+  orig: 111, 45
+  offset: 0, 0
+  index: -1
+Time
+  rotate: false
+  xy: 945, 218
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+Music
+  rotate: false
+  xy: 352, 65
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+NormalHover
+  rotate: false
+  xy: 423, 26
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+MusicHover
+  rotate: false
+  xy: 524, 25
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+BackHover
+  rotate: false
+  xy: 613, 35
+  size: 97, 63
+  orig: 97, 63
+  offset: 0, 0
+  index: -1
+SaveHover
+  rotate: false
+  xy: 712, 35
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+QuitHover
+  rotate: false
+  xy: 758, 100
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+Quit
+  rotate: false
+  xy: 791, 165
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+InsaneHover
+  rotate: false
+  xy: 871, 162
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+Sound
+  rotate: false
+  xy: 856, 116
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+Score
+  rotate: false
+  xy: 856, 69
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+RadioButtonChecked
+  rotate: false
+  xy: 575, 105
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+CheckBoxChecked
+  rotate: false
+  xy: 970, 176
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+CheckBox
+  rotate: false
+  xy: 1, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+RadioButton
+  rotate: false
+  xy: 808, 235
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Insane
+  rotate: false
+  xy: 810, 32
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 891, 23
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,691 @@
+
+Spritesheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Star1
+  rotate: false
+  xy: 1, 2161
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 1, 239
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Star2
+  rotate: false
+  xy: 1083, 2161
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Star3
+  rotate: false
+  xy: 1083, 239
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+BattleshipHit
+  rotate: false
+  xy: 2165, 3599
+  size: 526, 482
+  orig: 526, 482
+  offset: 0, 0
+  index: -1
+Battleship
+  rotate: false
+  xy: 2165, 3255
+  size: 382, 342
+  orig: 382, 342
+  offset: 0, 0
+  index: -1
+EneRay3
+  rotate: false
+  xy: 2165, 2625
+  size: 39, 628
+  orig: 39, 628
+  offset: 0, 0
+  index: -1
+EneRay4
+  rotate: false
+  xy: 2165, 1995
+  size: 39, 628
+  orig: 39, 628
+  offset: 0, 0
+  index: -1
+EneRay2
+  rotate: false
+  xy: 2206, 2625
+  size: 39, 628
+  orig: 39, 628
+  offset: 0, 0
+  index: -1
+EneRay1
+  rotate: false
+  xy: 2165, 1365
+  size: 39, 628
+  orig: 39, 628
+  offset: 0, 0
+  index: -1
+BulletC
+  rotate: false
+  xy: 2247, 2653
+  size: 47, 600
+  orig: 47, 600
+  offset: 0, 0
+  index: -1
+BulletD
+  rotate: false
+  xy: 2206, 2023
+  size: 39, 600
+  orig: 39, 600
+  offset: 0, 0
+  index: -1
+EG4
+  rotate: false
+  xy: 2693, 3788
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY5
+  rotate: false
+  xy: 2988, 3788
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB4
+  rotate: false
+  xy: 3283, 3788
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+ER1
+  rotate: false
+  xy: 3578, 3788
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY7
+  rotate: false
+  xy: 2296, 2960
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG1
+  rotate: false
+  xy: 2296, 2665
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG7
+  rotate: false
+  xy: 2693, 3493
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY3
+  rotate: false
+  xy: 2988, 3493
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB3
+  rotate: false
+  xy: 3283, 3493
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG5
+  rotate: false
+  xy: 3578, 3493
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+Ship3Hit
+  rotate: false
+  xy: 1, 1
+  size: 172, 236
+  orig: 172, 236
+  offset: 0, 0
+  index: -1
+Ship3LeftHit
+  rotate: false
+  xy: 3873, 3846
+  size: 164, 235
+  orig: 164, 235
+  offset: 0, 0
+  index: -1
+Ship3RightHit
+  rotate: false
+  xy: 175, 2
+  size: 164, 235
+  orig: 164, 235
+  offset: 0, 0
+  index: -1
+Ship1Hit
+  rotate: false
+  xy: 341, 26
+  size: 180, 211
+  orig: 180, 211
+  offset: 0, 0
+  index: -1
+Ship2Hit
+  rotate: false
+  xy: 523, 50
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+Ship1LeftHit
+  rotate: false
+  xy: 3873, 3632
+  size: 149, 212
+  orig: 149, 212
+  offset: 0, 0
+  index: -1
+Ship2LeftHit
+  rotate: false
+  xy: 720, 49
+  size: 171, 188
+  orig: 171, 188
+  offset: 0, 0
+  index: -1
+Ship2RightHit
+  rotate: false
+  xy: 893, 49
+  size: 171, 188
+  orig: 171, 188
+  offset: 0, 0
+  index: -1
+Ene6Hit
+  rotate: false
+  xy: 1066, 57
+  size: 170, 180
+  orig: 170, 180
+  offset: 0, 0
+  index: -1
+Ene5Hit
+  rotate: false
+  xy: 1238, 57
+  size: 170, 180
+  orig: 170, 180
+  offset: 0, 0
+  index: -1
+Ene8Hit
+  rotate: false
+  xy: 1410, 57
+  size: 170, 180
+  orig: 170, 180
+  offset: 0, 0
+  index: -1
+Ene7Hit
+  rotate: false
+  xy: 1582, 58
+  size: 170, 179
+  orig: 170, 179
+  offset: 0, 0
+  index: -1
+ER6
+  rotate: false
+  xy: 2247, 2358
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG8
+  rotate: false
+  xy: 2247, 2063
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+ER5
+  rotate: false
+  xy: 2165, 1070
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG2
+  rotate: false
+  xy: 2165, 775
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG6
+  rotate: false
+  xy: 2165, 480
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB5
+  rotate: false
+  xy: 2165, 185
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EG3
+  rotate: false
+  xy: 2206, 1728
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY4
+  rotate: false
+  xy: 2206, 1433
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB2
+  rotate: false
+  xy: 2542, 2370
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB1
+  rotate: false
+  xy: 2542, 2075
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+Ship1RightHit
+  rotate: false
+  xy: 1754, 25
+  size: 149, 212
+  orig: 149, 212
+  offset: 0, 0
+  index: -1
+Ship3
+  rotate: false
+  xy: 2549, 3407
+  size: 127, 190
+  orig: 127, 190
+  offset: 0, 0
+  index: -1
+ER2
+  rotate: false
+  xy: 2678, 3198
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+ER4
+  rotate: false
+  xy: 2973, 3198
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+ER3
+  rotate: false
+  xy: 3268, 3198
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY6
+  rotate: false
+  xy: 3563, 3198
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+ER8
+  rotate: false
+  xy: 2591, 2903
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY2
+  rotate: false
+  xy: 2886, 2903
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+ER7
+  rotate: false
+  xy: 3181, 2903
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB7
+  rotate: false
+  xy: 3476, 2903
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY8
+  rotate: false
+  xy: 3771, 2903
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EY1
+  rotate: false
+  xy: 2837, 2608
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB6
+  rotate: false
+  xy: 2837, 2313
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EB8
+  rotate: false
+  xy: 3132, 2608
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+EW6
+  rotate: false
+  xy: 3132, 2341
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+EW1
+  rotate: false
+  xy: 3427, 2636
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+EW4
+  rotate: false
+  xy: 3694, 2636
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+EW7
+  rotate: false
+  xy: 2837, 2046
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+Ship3Right
+  rotate: false
+  xy: 1905, 47
+  size: 119, 190
+  orig: 119, 190
+  offset: 0, 0
+  index: -1
+Ene1Hit
+  rotate: false
+  xy: 2591, 2739
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+Ship3Left
+  rotate: false
+  xy: 2026, 47
+  size: 119, 190
+  orig: 119, 190
+  offset: 0, 0
+  index: -1
+EW8
+  rotate: false
+  xy: 3132, 2074
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+EW5
+  rotate: false
+  xy: 3399, 2341
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+EW3
+  rotate: false
+  xy: 3399, 2074
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+EW2
+  rotate: false
+  xy: 3666, 2369
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+Ene4Hit
+  rotate: false
+  xy: 3666, 2205
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+Ship2
+  rotate: false
+  xy: 3873, 3488
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+Ene3Hit
+  rotate: false
+  xy: 3858, 3324
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+Ene2Hit
+  rotate: false
+  xy: 3815, 2205
+  size: 146, 162
+  orig: 146, 162
+  offset: 0, 0
+  index: -1
+Ship1Left
+  rotate: false
+  xy: 3961, 2735
+  size: 103, 166
+  orig: 103, 166
+  offset: 0, 0
+  index: -1
+Ship2Right
+  rotate: false
+  xy: 2549, 3263
+  size: 125, 142
+  orig: 125, 142
+  offset: 0, 0
+  index: -1
+Ship1
+  rotate: false
+  xy: 3666, 2037
+  size: 135, 166
+  orig: 135, 166
+  offset: 0, 0
+  index: -1
+Ship1Right
+  rotate: false
+  xy: 3803, 2037
+  size: 103, 166
+  orig: 103, 166
+  offset: 0, 0
+  index: -1
+Ship2Left
+  rotate: false
+  xy: 2147, 41
+  size: 125, 142
+  orig: 125, 142
+  offset: 0, 0
+  index: -1
+Ene5
+  rotate: false
+  xy: 2274, 49
+  size: 126, 134
+  orig: 126, 134
+  offset: 0, 0
+  index: -1
+Ene1
+  rotate: false
+  xy: 3858, 3204
+  size: 102, 118
+  orig: 102, 118
+  offset: 0, 0
+  index: -1
+Ene6
+  rotate: false
+  xy: 3961, 2599
+  size: 126, 134
+  orig: 126, 134
+  offset: 0, 0
+  index: -1
+Ene8
+  rotate: false
+  xy: 3933, 2463
+  size: 126, 134
+  orig: 126, 134
+  offset: 0, 0
+  index: -1
+Ene7
+  rotate: false
+  xy: 2402, 50
+  size: 126, 133
+  orig: 126, 133
+  offset: 0, 0
+  index: -1
+Ene4
+  rotate: false
+  xy: 3908, 2085
+  size: 102, 118
+  orig: 102, 118
+  offset: 0, 0
+  index: -1
+EneLaser2
+  rotate: false
+  xy: 4039, 3955
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+EneLaser4
+  rotate: false
+  xy: 2740, 2775
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+BulletB
+  rotate: false
+  xy: 2781, 2775
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+Ene3
+  rotate: false
+  xy: 3962, 3204
+  size: 102, 118
+  orig: 102, 118
+  offset: 0, 0
+  index: -1
+Ene2
+  rotate: false
+  xy: 3908, 1965
+  size: 102, 118
+  orig: 102, 118
+  offset: 0, 0
+  index: -1
+EneLaser1
+  rotate: false
+  xy: 4039, 3827
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+EneLaser3
+  rotate: false
+  xy: 4024, 3699
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+EnergyLevel
+  rotate: false
+  xy: 2591, 2667
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+HeatLevel
+  rotate: false
+  xy: 3933, 2391
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+BulletA
+  rotate: false
+  xy: 2206, 1377
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+EneBull1
+  rotate: false
+  xy: 4024, 3651
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+EneBull2
+  rotate: false
+  xy: 2632, 2691
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+EneBull3
+  rotate: false
+  xy: 3974, 2416
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+EneBull4
+  rotate: false
+  xy: 2247, 1386
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1

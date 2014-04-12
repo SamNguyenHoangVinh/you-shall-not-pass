@@ -1,0 +1,32 @@
+Bullet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BullD1
+  rotate: false
+  xy: 2, 2
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+BullC1
+  rotate: false
+  xy: 51, 2
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+BullB1
+  rotate: false
+  xy: 2, 66
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+BullA1
+  rotate: false
+  xy: 51, 66
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
